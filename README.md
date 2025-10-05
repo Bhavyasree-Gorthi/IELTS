@@ -21,7 +21,7 @@ A modern, responsive landing page for a fictional IELTS Institute built using **
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone 
+git clone https://github.com/Bhavyasree-Gorthi/IELTS
 cd ielts-institute
 2️⃣ Install Dependencies
 npm install
